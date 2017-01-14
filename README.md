@@ -1,5 +1,6 @@
 # Fancy-s-website
-Building a website of Fancy's (the band).
+
+This project is aimed to build up an responsive website(mainly web application).
 
 At a begginer's level, I built an website to promote the band, Fancy's. 
 The website only has a few activites like a hyperlink to music streaming site, album promotion, tour announcement. 
